@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-novelties.iml" filepath="$PROJECT_DIR$/java-novelties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../patientbilling/patientbilling.iml" filepath="$PROJECT_DIR$/../patientbilling/patientbilling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../patientclinicals/patientclinicals.iml" filepath="$PROJECT_DIR$/../patientclinicals/patientclinicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../patientmanagement/patientmanagement.iml" filepath="$PROJECT_DIR$/../patientmanagement/patientmanagement.iml" />
+    </modules>
+  </component>
+</project>
